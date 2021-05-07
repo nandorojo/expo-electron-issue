@@ -783,9 +783,9 @@
     resolve-from "^5.0.0"
     slugify "^1.3.4"
 
-"@expo/electron-adapter@^0.0.0-alpha.8":
-  version "0.0.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@expo/electron-adapter/-/electron-adapter-0.0.0-alpha.8.tgz#de1707a8b64635e1f66ae800fa1fd7d8948dcad1"
+"@expo/electron-adapter@0.0.0-alpha.10":
+  version "0.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/@expo/electron-adapter/-/electron-adapter-0.0.0-alpha.10.tgz#4a407265657577bd534354784b064436a3bac791"
   dependencies:
     "@expo/config" "^2.5.1"
     "@expo/package-manager" "^0.0.0"
@@ -6698,8 +6698,8 @@ typescript@^3.6.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uglify-es@^3.1.9:
   version "3.3.10"
